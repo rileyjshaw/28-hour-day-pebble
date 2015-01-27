@@ -17,6 +17,10 @@
 		var cancel = document.getElementById('cancel');
 		var submit = document.getElementById('submit');
 
+		if (location.hash.slice(1) === 'enabled') {
+			box.checked = 'checked';
+		}
+
 		cancel.addEventListener('click', function () {
 			location.href = 'pebblejs://close';
 		});
