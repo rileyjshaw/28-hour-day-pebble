@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "rileyjshaw@gmail.com",
+    "longName": "28 Hour Day",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "28 Hour Day",
+    "uuid": "7133aed8-0050-4d6e-8158-e5f3842874d0",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
